@@ -8,7 +8,7 @@ Third party dependency code/libraries (also included with this check in):
 	- Simple Slack Client: https://gist.github.com/jogleasonjr/7121367
 		- Because why write something someone already wrote?
 	- ActiveUp Email library
-		- Nice .net Email library for reading email
+		- Nice .net Email library for interacting with email
 
 	
 Recommended Usage:
