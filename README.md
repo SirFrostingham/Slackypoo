@@ -4,6 +4,7 @@ Slackypoo - Send email content to Slack
 	- The system works beautifully
 
 Third party dependency code/libraries (also included with this check in):
+
 	- Simple Slack Client: https://gist.github.com/jogleasonjr/7121367
 		- Because why write something someone already wrote?
 	- ActiveUp Email library
